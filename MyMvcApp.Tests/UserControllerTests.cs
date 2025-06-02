@@ -17,7 +17,7 @@ public class UserControllerTests
         var controller = new UserController();
 
         // Act
-        var result = controller.Index() as ViewResult;
+        var result = controller.Index(null) as ViewResult;
 
         // Assert
         Assert.NotNull(result);

@@ -68,3 +68,17 @@ c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debu
 c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.csproj.AssemblyReference.cache
 c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.csproj.Up2Date
 C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\obj\Debug\net8.0\MyMvcApp.Tests.sourcelink.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\roslyn\csc.exe.config
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\roslyn\csi.exe.config
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\roslyn\vbc.exe.config
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\roslyn\VBCSCompiler.exe.config
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\appsettings.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.deps.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.runtimeconfig.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.staticwebassets.runtime.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.Tests.deps.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.Tests.runtimeconfig.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.Tests\obj\Debug\net8.0\MyMvcApp.Tests.sourcelink.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.Tests\obj\MyMvcApp.Tests.csproj.nuget.dgspec.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\bin\Debug\net8.0\MyMvcApp.Tests\obj\project.assets.json
