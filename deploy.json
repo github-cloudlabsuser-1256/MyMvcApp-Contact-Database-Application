@@ -8,7 +8,7 @@
     },
     "webAppName": {
       "type": "string",
-      "defaultValue": "myMvcAppWebApp"
+      "defaultValue": "myMvcWebApp1256"
     },
     "location": {
       "type": "string",
