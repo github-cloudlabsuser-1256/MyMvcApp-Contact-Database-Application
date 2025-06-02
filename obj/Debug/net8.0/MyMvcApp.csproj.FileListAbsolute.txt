@@ -59,3 +59,12 @@ C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debu
 C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.pdb
 C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
 C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\ref\MyMvcApp.dll
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\obj\MyMvcApp.Tests.csproj.nuget.dgspec.json
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\obj\project.assets.json
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\xunit.abstractions.dll
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\xunit.assert.dll
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\xunit.core.dll
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\xunit.execution.dotnet.dll
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.csproj.AssemblyReference.cache
+c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.csproj.Up2Date
+C:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.Tests\obj\Debug\net8.0\MyMvcApp.Tests.sourcelink.json
